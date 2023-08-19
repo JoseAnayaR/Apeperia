@@ -1,4 +1,4 @@
-.sobre-nosotros {
+.sobre_nosotros {
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
@@ -25,7 +25,7 @@
     margin-bottom: 1rem;
 }
 
-.sobre-nosotros {
+.sobre_nosotros {
     color: var(--fuente-ceniza-oscuro);
     font-weight: 700;
 }
